@@ -1,6 +1,6 @@
 # Colours
 
-> Colour names based on "Name That Color (Chirag Mehta)"
+> Colour names based on "[Name That Color (Chirag Mehta)](https://chir.ag/projects/name-that-color/)" project/conventions.
 
 | Chirag Mehta Name | Color Name | Code | Hex Code | Use |
 |:------------------|:-----------|:-----|:---------|:----|

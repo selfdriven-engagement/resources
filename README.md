@@ -1,5 +1,6 @@
 # selfdriven Community
-Community SDK for:
+
+**Community resources for:**
 - https://selfdriven.community
 - https://selfdriven.fyi/apps
 
