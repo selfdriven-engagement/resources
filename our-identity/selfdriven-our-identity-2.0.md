@@ -11,7 +11,6 @@ White is the brightest and most neutral color. It’s used as a background, high
 - Background: #FFFFFF;
 - Text: background: linear-gradient(356.15deg, #420633 4.27%, rgba(66, 6, 51, 0.5) 202.17%);
 
-<pre>
 ```css
 :root {
   --color-white: #FFFFFF; /* White - Pure neutral highlight or background */
@@ -21,7 +20,6 @@ White is the brightest and most neutral color. It’s used as a background, high
   --color-white-pure: #FFFFFF;   /* Reserved for high contrast when needed */
 }
 ```
-</pre>
 
 ## Cararra (Beige)
 Cararra is a very light, slightly warm off-white with a subtle yellow-green tint. It’s ideal for backgrounds where you want a touch of warmth without losing that clean, bright feel. Often used in minimal or soft aesthetic palettes.
