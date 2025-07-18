@@ -2,8 +2,8 @@
 
 > Colour names based on "Name That Color (Chirag Mehta)"
 
-| Chirag Mehta Name | Code | Color Name | Hex Code  |
-|-------------------|------------|-----------|-----------|
+| Chirag Mehta Name | Code | Color Name | Hex Code |
+|-------------------|------|------------|----------|
 | [White](#white-white) | white | White | #FFFFFF |
 | [Cararra](#cararra-beige) | cararra | Beige | #EFEFE5 |
 | [Melrose](#melrose-light-purple) | melrose | Light Purple | #B4A1FB |
