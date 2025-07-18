@@ -4,12 +4,12 @@
 
 | Chirag Mehta Name | Color Name | Hex Code  |
 |-------------------|------------|-----------|
-| White | White | #FFFFFF |
-| Cararra | Beige | #EFEFE5 |
+| [White](#white-white) | White | #FFFFFF |
+| [Cararra](#cararra-beige) | Beige | #EFEFE5 |
 | Melrose | Light Purple | #B4A1FB |
 | Blackcurrant | Dark Purple | #420633 |
 | Flamingo | Orange | #DE5A31 |
-| Black | OrangeBlack | #000000 |
+| Black | Black | #000000 |
 
 ## White (White)
 White is the brightest and most neutral color. It’s used as a background, highlight, or contrast color in almost all design systems. In your palette, it serves best as: light mode background, highlight text on dark backgrounds & borders, shadows, or accents in minimal UI
