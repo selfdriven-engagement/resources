@@ -74,7 +74,7 @@
 ```
 
 ## Melrose (Light Purple)
-Melrose is a gentle, light violet with a cool blue undertone — often associated with calm, creativity, and softness. It pairs nicely with whites, lavenders, and muted golds or warm neutrals.
+**Melrose is a gentle, light violet with a cool blue undertone — often associated with calm, creativity, and softness. It pairs nicely with whites, lavenders, and muted golds or warm neutrals.**
 
 - background: #B4A1FB;
 - text: background: linear-gradient(356.15deg, #420633 4.27%, rgba(66, 6, 51, 0.5) 202.17%);
@@ -120,7 +120,7 @@ Melrose is a gentle, light violet with a cool blue undertone — often associate
 
 
 ## Blackcurrant (Dark Purple)
-“Blackcurrant” is a very dark, rich purple with strong red undertones — bold, moody, and great as an accent or background when you want depth or luxury. It’s commonly used in fashion, premium branding, and gothic/vintage palettes.
+**“Blackcurrant” is a very dark, rich purple with strong red undertones — bold, moody, and great as an accent or background when you want depth or luxury. It’s commonly used in fashion, premium branding, and gothic/vintage palettes.**
 
 - Category: Deep purple / dark magenta
 - Background: linear-gradient(356.27deg, #420633 4.18%, rgba(66, 6, 51, 0.75) 97.03%);
@@ -166,7 +166,7 @@ Melrose is a gentle, light violet with a cool blue undertone — often associate
 
 
 ## Flamingo (Orange)
-Flamingo is a vibrant, warm-toned orange with a hint of red — energetic and bold. It gives a retro, summery feel and works well in playful or attention-grabbing designs.
+**Flamingo is a vibrant, warm-toned orange with a hint of red — energetic and bold. It gives a retro, summery feel and works well in playful or attention-grabbing designs.**
 
 - Category: Warm orange-red
 - Hex: #DE5A31
@@ -211,10 +211,7 @@ Flamingo is a vibrant, warm-toned orange with a hint of red — energetic and bo
 
 
 ## Black (Black)
-Black is the deepest shade, used for maximum contrast. It’s great for:
-- Text on light backgrounds
-- Accents, outlines, or shadows
-- Neutral anchor for balancing vivid palettes
+**Black is the deepest shade, used for maximum contrast. It’s great for: Text on light backgrounds, Accents, outlines, or shadows Neutral anchor for balancing vivid palettes**
 
 - Category: Pure black
 - Hex: #000000
