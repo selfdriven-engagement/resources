@@ -2,7 +2,7 @@
 
 > Colour names based on "Name That Color (Chirag Mehta)"
 
-## White (White))
+## White (White)
 White is the brightest and most neutral color. It’s used as a background, highlight, or contrast color in almost all design systems. In your palette, it serves best as: light mode background, highlight text on dark backgrounds & borders, shadows, or accents in minimal UI
 - Category: Pure white
 - Hex: #FFFFFF
