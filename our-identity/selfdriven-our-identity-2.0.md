@@ -2,8 +2,8 @@
 
 **Names based on "[Name That Color (Chirag Mehta)](https://chir.ag/projects/name-that-color/)" project/conventions.**
 
-| Chirag Mehta Name | Color Name | Code | Hex Code | Use |
-|:------------------|:-----------|:-----|:---------|:----|
+| Name | Color Name | Code | Hex Code | Use |
+|:-----|:-----------|:-----|:---------|:----|
 | [White](#white-white) | White | white | #FFFFFF | Apps |
 | [Cararra](#cararra-beige) | Beige | cararra | #EFEFE5 | Foundation, Community |
 | [Melrose](#melrose-light-purple) | Light Purple | melrose | #B4A1FB | heyOcto, selfdrivenAI |
