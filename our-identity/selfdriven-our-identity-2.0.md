@@ -41,7 +41,6 @@ Cararra is a very light, slightly warm off-white with a subtle yellow-green tint
 | **Neutral Dark**  | Graphite         | `#2F2F2F` | Deep gray for dark text or UI elements        |
 | **Highlight**     | White            | `#FFFFFF` | Clean highlight for borders or emphasis       |
 
-<pre>
 ```css
 :root {
   --color-primary:         #EFEFE5; /* Cararra - Warm, pale off-white */
@@ -64,7 +63,6 @@ Cararra is a very light, slightly warm off-white with a subtle yellow-green tint
   --color-highlight:       #FFFFFF; /* White - for max contrast where needed */
 }
 ```
-</pre>
 
 ## Melrose (Light Purple)
 Melrose is a gentle, light violet with a cool blue undertone — often associated with calm, creativity, and softness. It pairs nicely with whites, lavenders, and muted golds or warm neutrals.
@@ -86,7 +84,7 @@ Melrose is a gentle, light violet with a cool blue undertone — often associate
 | **Contrast**      | Charcoal         | `#333333` | Strong neutral for text                |
 | **Highlight**     | Mint Cream       | `#F5FFFA` | Cool highlight white                   |
 
-<pre>
+
 ```css
 :root {
   --color-primary:       #B4A1FB; /* Melrose - Soft pastel purple */
@@ -109,7 +107,7 @@ Melrose is a gentle, light violet with a cool blue undertone — often associate
   --color-highlight:       #FFFFFF; /* White for sharp text or borders */
 }
 ```
-</pre>
+
 
 
 ## Blackcurrant (Dark Purple)
@@ -133,7 +131,7 @@ Melrose is a gentle, light violet with a cool blue undertone — often associate
 | **Neutral Dark**  | Raisin Black     | `#23101A` | Very dark muted tone to complement darkness      |
 | **Highlight**     | Lavender Mist    | `#EDE1F9` | Light, airy purple for text or soft backgrounds  |
 
-<pre>
+
 ```css
 :root {
   --color-primary:            #420633; /* Blackcurrant - Deep, rich purple */
@@ -156,7 +154,7 @@ Melrose is a gentle, light violet with a cool blue undertone — often associate
   --color-highlight:          #F6EDFC; /* Lavender-tinged white */
 }
 ```
-</pre>
+
 
 ## Flamingo (Orange)
 Flamingo is a vibrant, warm-toned orange with a hint of red — energetic and bold. It gives a retro, summery feel and works well in playful or attention-grabbing designs.
@@ -178,7 +176,7 @@ Flamingo is a vibrant, warm-toned orange with a hint of red — energetic and bo
 | **Neutral Dark**  | Charcoal         | `#333333` | Deep neutral for text or balance         |
 | **Highlight**     | White            | `#FFFFFF` | Clean, crisp white for text or borders   |
 
-<pre>
+
 ```css
 :root {
   --color-primary:         #DE5A31; /* Flamingo - Bold, warm orange-red */
@@ -201,7 +199,7 @@ Flamingo is a vibrant, warm-toned orange with a hint of red — energetic and bo
   --color-highlight:       #FFFFFF; /* Sharp accents/highlights */
 }
 ```
-</pre>
+
 
 ## Black (Black)
 Black is the deepest shade, used for maximum contrast. It’s great for:
@@ -216,7 +214,7 @@ Black is the deepest shade, used for maximum contrast. It’s great for:
 - Background: #000000;
 - Text: background: linear-gradient(191.23deg, #A474C0 29.32%, #752A62 105.03%);
 
-<pre>
+
 ```css
 :root {
   --color-black:       #000000; /* Pure Black - for strong text or accents */
@@ -227,7 +225,7 @@ Black is the deepest shade, used for maximum contrast. It’s great for:
   --color-black-soft:      #1A1A1A; /* Softer variant for surfaces */
 }
 ```
-</pre>
+
 
 # Fonts
 https://www.atipofoundry.com/fonts/brockmann
@@ -240,11 +238,7 @@ https://www.atipofoundry.com/fonts/brockmann/pay-what-you-want
 - letter-spacing: -5%;
 - text-align: center;
 
-Back Text
-rgb(33, 37, 41)
-#212529
-
-
+```css
 /* poppins-100 - latin */
 @font-face {
   font-display: swap;
@@ -390,3 +384,4 @@ rgb(33, 37, 41)
   font-weight: 900;
   src: url('../fonts/poppins-v23-latin-900italic.woff2') format('woff2');
 }
+```
