@@ -12,7 +12,7 @@
 | [Black](#black-black) | Black | #000000 |
 
 ## White (White)
-White is the brightest and most neutral color. It’s used as a background, highlight, or contrast color in almost all design systems. In your palette, it serves best as: light mode background, highlight text on dark backgrounds & borders, shadows, or accents in minimal UI
+**White is the brightest and most neutral color. It’s used as a background, highlight, or contrast color in almost all design systems. In your palette, it serves best as: light mode background, highlight text on dark backgrounds & borders, shadows, or accents in minimal UI.**
 - Category: Pure white
 - Hex: #FFFFFF
 - RGB: rgb(255, 255, 255)
@@ -31,7 +31,7 @@ White is the brightest and most neutral color. It’s used as a background, high
 ```
 
 ## Cararra (Beige)
-Cararra is a very light, slightly warm off-white with a subtle yellow-green tint. It’s ideal for backgrounds where you want a touch of warmth without losing that clean, bright feel. Often used in minimal or soft aesthetic palettes.
+**Cararra is a very light, slightly warm off-white with a subtle yellow-green tint. It’s ideal for backgrounds where you want a touch of warmth without losing that clean, bright feel. Often used in minimal or soft aesthetic palettes.**
 
 - Category: Pale neutral / off-white
 - Hex: #EFEFE5
