@@ -1,3 +1,9 @@
+---
+layout: default
+title: Colours - selfdriven Resources
+permalink: /colours/
+---
+
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
     <tr>
