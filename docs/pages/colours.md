@@ -1,3 +1,9 @@
+---
+layout: default
+title: Colours - selfdriven Resources
+permalink: /colours/
+---
+
 # Colours
 
 **Names based on "[Name That Color (Chirag Mehta)](https://chir.ag/projects/name-that-color/)" project/conventions.**
