@@ -14,6 +14,7 @@ permalink: /merch/
 - [screenlab.co](https://screenlab.co)
     - Based in Australia.
     - Global delivery.
+    - Typically 8 days from order to dispatch.
     - Design & order your merch:
         1. "Choose A Blank" 
         2. Select T-Shirt Style
