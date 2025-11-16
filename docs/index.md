@@ -8,5 +8,5 @@ title: Home
     - [Merch Colours](/colours-merch/)
     - [Merch Artwork](https://github.com/selfdriven-engagement/resources/tree/main/our-identity/merch/artwork)
 - [Templates](https://github.com/selfdriven-foundation/resources/tree/main/templates) - Jekyll Pages Site
-- [Merch](/merch/)
+- [Merch](https://shop.selfdriven.foundation/merch/custom/)
 
