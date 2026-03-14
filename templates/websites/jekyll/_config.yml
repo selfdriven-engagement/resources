@@ -3,6 +3,7 @@ description: ""
 baseurl: ""
 url: ""
 context: "xyz"
+repo: "repo-xyz"
 
 defaults:
   - scope:
