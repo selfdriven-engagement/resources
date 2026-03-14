@@ -1,5 +1,6 @@
 title: "selfdriven Resources"
 description: "Helping communities self-actuate"
+context: "resources"
 baseurl: ""
 url: ""
 theme: minima

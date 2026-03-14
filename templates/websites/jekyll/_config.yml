@@ -2,7 +2,7 @@ title: "selfdriven"
 description: ""
 baseurl: ""
 url: ""
-context: "resources"
+context: "xyz"
 
 defaults:
   - scope:
