@@ -7,7 +7,7 @@ title: Resources | selfdriven
 
 - [Logos etc](https://github.com/selfdriven-foundation/resources/tree/main/our-identity) - Logos
 - [Colours](/colours)
-- [Skills](https://github.com/selfdriven-foundation/resources/tree/main/skills)
+- [Skills](https://github.com/selfdriven-octo/skillzeb/tree/main/skills/intelligence/inorganic)
 
 ## Merch
 - [Colours](/colours/merch)
