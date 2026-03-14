@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: dselfdrivent
 title: Colours - selfdriven Resources
-permalink: /colours/
+permalink: /colours
 ---
 
 # Colours

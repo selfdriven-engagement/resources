@@ -1,8 +1,19 @@
 title: "selfdriven"
-description: "Helping communities self-actuate"
+description: ""
 baseurl: ""
 url: ""
-theme: minima
+context: "resources"
+
+defaults:
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: selfdriven
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+exclude:
+  - _well-known/

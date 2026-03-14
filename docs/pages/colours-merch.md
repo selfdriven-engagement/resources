@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Colours - selfdriven Resources
-permalink: /colours/
+layout: selfdriven
+title: Colours Merch - selfdriven Resources
+permalink: /colours/merch
 ---
 
 ### Screenlab.co - selfdriven Merch 1.0
