@@ -1,5 +1,5 @@
 ---
-layout: dselfdrivent
+layout: selfdriven
 title: Colours - selfdriven Resources
 permalink: /colours
 ---
