@@ -1,12 +1,21 @@
 ---
 layout: selfdriven
-title: Home
+title: Resources | selfdriven
 ---
 
-- [Our Identity](https://github.com/selfdriven-foundation/resources/tree/main/our-identity) - Logos
-    - [Colours](/colours)
-    - [Merch Colours](/colours/merch)
-    - [Merch Artwork](https://github.com/selfdriven-engagement/resources/tree/main/our-identity/merch/artwork)
-- [Templates](https://github.com/selfdriven-foundation/resources/tree/main/templates) - Jekyll Pages Site
-- [Merch](https://shop.selfdriven.foundation/merch/custom/)
+## Identity
+
+- [Logos etc](https://github.com/selfdriven-foundation/resources/tree/main/our-identity) - Logos
+- [Colours](/colours)
+- [Skills](https://github.com/selfdriven-foundation/resources/tree/main/skills)
+
+## Merch
+- [Colours](/colours/merch)
+- [Artwork](https://github.com/selfdriven-engagement/resources/tree/main/our-identity/merch/artwork)
+- [Custom Merch](https://shop.selfdriven.foundation/merch/custom/)
+
+## Templates
+- [Jekyll Pages Site](https://github.com/selfdriven-engagement/resources/tree/main/templates/websites/jekyll)
+
+
 
