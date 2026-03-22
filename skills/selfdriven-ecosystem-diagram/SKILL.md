@@ -1,5 +1,5 @@
 ---
-name: selfdriven-ecosystem-visual
+name: selfdriven-ecosystem-diagram
 description: >
   Create selfdriven Foundation branded explanatory graphics, diagrams, timeline illustrations,
   and conceptual visuals as standalone HTML/SVG artifacts. Use this skill whenever the user
@@ -11,7 +11,7 @@ description: >
   output needs selfdriven brand fidelity.
 ---
 
-# selfdriven Ecosystem Image Creator
+# selfdriven Ecosystem Diagram Creator
 
 Produce branded explanatory graphics and visual diagrams for the selfdriven Foundation ecosystem.
 Output is always a **self-contained HTML file** that renders at 1600×900px (landscape) or
